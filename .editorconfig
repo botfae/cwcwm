@@ -133,3 +133,6 @@ ignore_space_after_colon = false
 
 remove_call_expression_list_finish_comma = false
 
+[*.nix]
+indent_style = space
+indent_size = 2
